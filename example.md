@@ -4,6 +4,8 @@ title: Deutsche Bank considers cancelling millions in bonuses
 navigation: Example
 ---
 
+*This example shows annotations of the type "problematic phrases". Code for generating the other two types - sources background check and out-of-bubble recommendations - can be found [in the code](https://github.com/dpa-newslab/ajda/)*
+
 
 Frankfurt (dpa) - Troubled German lender Deutsche Bank is thinking about cancelling millions in bonuses set aside for top managers as it tries to right its financial ship, the Sueddeutsche Zeitung newspaper reported Thursday.
 
