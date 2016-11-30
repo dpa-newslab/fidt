@@ -18,5 +18,5 @@ The bank has had to pay steep fines after it was accused of misleading investors
 Deutsche Bank reported a 6.8-billion-euro loss for 2015 and has not ruled out a loss again for this year as dpa reported earlier this month.
 German Economy Minister Sigmar Gabriel recently slammed the management of Deutsche Bank  for how it has dealt with the latest bout of fears surrounding its financial stability. "I didn't know whether to laugh or get angry, that the bank that has made speculation its business model is now declaring itself the victim of speculation," said Gabriel, who also serves as deputy chancellor to Angela Merkel.
 
-<script async defer src="https://hypothes.is/embed.js"></script>
+<script async defer src="//hypothes.is/embed.js"></script>
 
