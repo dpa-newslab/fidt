@@ -5,7 +5,7 @@ navigation: Example
 ---
 
 
-Frankfurt (dpa) - Troubled Troubled German lender Deutsche Bank is thinking about cancelling millions in bonuses set aside for top managers as it tries to right its financial ship, the Sueddeutsche Zeitung newspaper reported Thursday.
+Frankfurt (dpa) - Troubled German lender Deutsche Bank is thinking about cancelling millions in bonuses set aside for top managers as it tries to right its financial ship, the Sueddeutsche Zeitung newspaper reported Thursday.
 
 Former bank heads such as Josef Ackermann, Juergen Fitschen and Anshu Jain could be affected. The paper reported that, in the case of Jain, the withheld sum could reach 5.3 million euros (5.7 million dollars). Ackermann could stand to lose out on 3.5 million euros.
 
