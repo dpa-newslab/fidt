@@ -10,8 +10,11 @@ As everybody else, we do stand on the shoulders of giants. Here's the kudos to t
   - [The Juicer](http://bbcnewslabs.co.uk/projects/juicer/), the BBC News Lab's succulent linked-data aware news index that does the heavy lifting of the source background check.
   - [Project Mermaid](https://github.com/knsv/mermaid) for the nice markdowny diagram.
 
-<div class="mermaid">
+<!-- <div class="mermaid">
 graph LR
-   id1(NERD) --> id2(POS-Tagger) --> id3( Juicer Search);
+   id1(NERD) 
+   
+   
 </div>
+-->
 
