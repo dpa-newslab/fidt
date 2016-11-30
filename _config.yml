@@ -6,11 +6,11 @@ gems:             [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            Project Hackney
+title:            Project ajda
 tagline:          'A tool for news sceptics'
 description:      'Part of the for the <a href="http://bbcnewslabs.co.uk/projects/trust-project-challenge/">Trust Project Challenge Hackathon</a>. '
-url:              https://dpa-newslab.github.io/project-hackney
-baseurl:          /project-hackney/
+url:              https://dpa-newslab.github.io/ajda
+baseurl:          /ajda/
 
 author:
   name:           'Julia Kilian, Fabian Schmidt, Martin Virtel'
@@ -22,4 +22,3 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/dpa-newslab/project-hackney
