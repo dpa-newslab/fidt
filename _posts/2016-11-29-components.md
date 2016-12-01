@@ -22,8 +22,8 @@ graph TB
             i(Citation Index) --> a(Annotations)
             Text-->t
             Text-->p
-			t(TXTWerk NERD)  --> c(Cited Named Entities)
-			p(NLTK POS Tagger) --> c
+			t(NER)  --> c(Cited NE)
+			p(POS Tagger) --> c
             c-->a
             
             
