@@ -5,9 +5,9 @@
 mermaidAPI.initialize({ startOnLoad:false });
 $(document).ready(function() {
     $("script[language=mermaid]").each(function(i,e) {
-        var g=mermaidAPI.render(e.text);
+        var g=mermaidAPI.render('mermaid'+i,e.text);
         console.log(e.text+ "-->" + g);
-        $(e).after("<div>"+g+"</div>");
+        $(e).before('<div>'+g+"</div>");
     });
 });
 </script>
