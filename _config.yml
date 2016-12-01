@@ -8,12 +8,12 @@ permalink:        pretty
 # Setup
 title:            ajda
 tagline:          '<b>a</b>utomatic <b>j</b>ournalism <b>d</b>iscovery <b>a</b>gent - a tool for sceptic news consumers'
-description:      'Part of the <a href="http://bbcnewslabs.co.uk/projects/trust-project-challenge/">Trust Project Challenge Hackathon</a>. '
+description:      'Built by Julia Kilian, Fabian Schmidt, Martin Virtel at the <a href="http://bbcnewslabs.co.uk/projects/trust-project-challenge/">Trust Project Challenge Hackathon</a>. '
 url:              https://github.com/dpa-newslab/ajda
 baseurl:          /ajda/
 
 author:
-  name:           'Julia Kilian, Fabian Schmidt, Martin Virtel'
+  name:           'News-Stream Project' 
   url:            http://newsstreamproject.org/
 
 paginate:         5

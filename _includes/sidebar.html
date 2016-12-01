@@ -8,7 +8,6 @@
       </h1>
       <p class="lead">{{ site.tagline }}</p>
       <p class="lead">{{ site.description }}</p>
-      <p class="author" href="{{site.author.url}}"> {{ site.author.name }}</p>
     </div>
 
     <nav class="sidebar-nav">
@@ -31,6 +30,6 @@
       <a class="sidebar-nav-item" href="{{ site.github }}">GitHub project</a>
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    <p>&copy; {{ site.time | date: '%Y' }}. <a href="{{ site.author.url}}">{{ site.author.name }}</a>. All rights reserved.</p>
   </div>
 </div>
