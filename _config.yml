@@ -6,19 +6,19 @@ gems:             [jekyll-paginate]
 permalink:        pretty
 
 # Setup
-title:            ajda
-tagline:          '<b>a</b>utomatic <b>j</b>ournalism <b>d</b>iscovery <b>a</b>gent - a tool for sceptic news consumers'
-description:      'Built by Julia Kilian, Fabian Schmidt, Martin Virtel at the <a href="http://bbcnewslabs.co.uk/projects/trust-project-challenge/">Trust Project Challenge Hackathon</a>. '
-url:              https://github.com/dpa-newslab/ajda
-baseurl:          /ajda/
+title:            F.i.d.T
+tagline:          '<b>F</b>uß <b>i</b>n <b>d</b>er <b>T</b>ür - Jetzt reden wir mit unseren Leser/innen.'
+description:      'Erdacht auf dem <a href="https://www.facebook.com/facebookjournalismproject">Facebook Journalism Project</a> Hackathon in Hamburg, Juni 2017.'
+url:              https://github.com/dpa-newslab/fidt
+baseurl:          /fidt/
 
 author:
-  name:           'News-Stream Project' 
-  url:            http://newsstreamproject.org/
+  name:           'Team F.i.d.T' 
+  url:            https://www.facebook.com/groups/1888079458098823
 
-paginate:         5
+paginate:         15 
 
 # Custom vars
 version:          2.1.0
-github:           https://github.com/dpa-newslab/ajda
+github:           https://github.com/dpa-newslab/fidt
 

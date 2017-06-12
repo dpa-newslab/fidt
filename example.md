@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nopage
 title: Deutsche Bank considers cancelling millions in bonuses
 navigation: Example
 ---
