@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            F.i.d.T
-tagline:          '<b>F</b>uß <b>i</b>n <b>d</b>er <b>T</b>ür - Jetzt reden wir mit unseren Leser/innen.'
+tagline:          '<b>F</b>uß <b>i</b>n <b>d</b>er <b>T</b>ür - Jetzt reden wir mit unseren Usern!'
 description:      'Erdacht auf dem <a href="https://www.facebook.com/facebookjournalismproject">Facebook Journalism Project</a> Hackathon in Hamburg, Juni 2017.'
 url:              https://github.com/dpa-newslab/fidt
 baseurl:          /fidt/
